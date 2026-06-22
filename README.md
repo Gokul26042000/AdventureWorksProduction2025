@@ -1,7 +1,7 @@
 > AdventureWorksProduction2025
 AdventureWorks2025 Production Analytics: End-to-end data project analyzing enterprise manufacturing workflows, inventory optimization, and supply chain efficiency.
 
->>> Project Overview
+* **Project Overview**
 This project delivers an enterprise-grade Power BI reporting solution designed for senior management to monitor and optimize global *inventory health, manufacturing performance, and production efficiency*. Using the comprehensive **AdventureWorks2025** database, the end-to-end implementation transforms over 50 raw tables into a streamlined, high-performance business intelligence tool focused on inventory optimization and manufacturing variance tracking.
 
 <img width="1322" height="732" alt="image" src="https://github.com/user-attachments/assets/d42ea6c1-016a-4494-acd1-4d71791ccf1c" />
